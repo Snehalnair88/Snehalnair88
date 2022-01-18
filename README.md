@@ -23,11 +23,17 @@
 
 ### Interests
 👍 Web Development  
+
 👍 Cyber Security  
+
 👍 Software Development  
+
 👍 Full Stack Cloud Development 
-👍 Data Analysis  
+
+👍 Data Analysis 
+
 👍 App Development 
+
 👍 AI / ML
 
 ### Hobbies
