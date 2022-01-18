@@ -28,6 +28,7 @@
 👍 Full Stack Cloud Development 
 👍 Data Analysis  
 👍 App Development 
+
 👍 AI / ML
 
 ### Hobbies
