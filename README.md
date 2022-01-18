@@ -22,12 +22,13 @@
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
 ### Interests
-👍 App Development  
-👍 AI / ML  
+👍 Web Development  
+👍 Cyber Security  
 👍 Software Development  
-👍 Game Development  
+👍 Full Stack Cloud Development 
 👍 Data Analysis  
-👍 Web Development    
+👍 App Development 
+👍 AI / ML
 
 ### Awards
 ✨ 2nd Rank at COFAS International 2018  
