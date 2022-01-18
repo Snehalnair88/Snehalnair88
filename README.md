@@ -40,28 +40,24 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Snehalnair88&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
- Hackerrank     https://www.hackerrank.com/roshank9419  
- HackerEarth    https://www.hackerearth.com/@roshan562  
- CodeForces     https://codeforces.com/profile/roshank9419  
- LeetCode       https://leetcode.com/roshan9419/  
+ GeeksForGeeks  https://auth.geeksforgeeks.org/user/snehalrajin88/profile
+ Hackerrank     https://www.hackerrank.com/snehalrajin88  
+ HackerEarth    https://www.hackerearth.com/@snehalrajin88 
+ LeetCode       https://leetcode.com/snehalrajin88/ 
  
-### YouTube
- https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
  
-
 ## 📊 Github stats
 
 <!-- <details>  -->
 <!--   <summary>💻 GitHub Profile Stats</summary> -->
   <br/>
-    <a><img alt="Roshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a><img alt="Roshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a><img alt="Snehal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Snehalnair88&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a><img alt="Snehal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Snehalnair88&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
 
-<a><img alt="Roshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan9419&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
+<a><img alt="Snehal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Snehalnair88&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/" target="_blank">
