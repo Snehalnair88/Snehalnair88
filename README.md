@@ -30,13 +30,14 @@
 👍 App Development 
 👍 AI / ML
 
-### Awards
-✨ 2nd Rank at COFAS International 2018  
-✨ 3rd Rank at Online CodeEd Hackathon 2020  
+### Hobbies
+✨ 1035 Rapid Rating on  Chess.com 
+✨ Data Structures and Algorithms 
+✨ Public Speaking
 
 ### **Highlights**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=roshan9419&theme=dracula&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Snehalnair88&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
