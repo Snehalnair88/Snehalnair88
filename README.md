@@ -6,7 +6,7 @@
 💻 Worked on many different technologies.  
 📜 Created many useful web development projects!  
 
-<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
+<img alt="GIF" src="https://media2.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif?cid=ecf05e47th41o1ffb2u2p4g3qcvr5424d61xhhwf3bzft72o&rid=giphy.gif&ct=g" width="500"/>  
 
 ### Languages and Tools  
 
