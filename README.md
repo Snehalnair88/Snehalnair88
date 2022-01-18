@@ -41,8 +41,11 @@
 
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/snehalrajin88/profile
+ 
  Hackerrank     https://www.hackerrank.com/snehalrajin88  
+ 
  HackerEarth    https://www.hackerearth.com/@snehalrajin88 
+ 
  LeetCode       https://leetcode.com/snehalrajin88/ 
  
  
