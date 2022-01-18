@@ -21,7 +21,9 @@
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
+
 ### Interests
+
 👍 Web Development  
 
 👍 Cyber Security  
@@ -36,16 +38,22 @@
 
 👍 AI / ML
 
+
+
 ### Hobbies
+
 ✨ 1035 Rapid Rating on  Chess.com 
 ✨ Data Structures and Algorithms 
 ✨ Public Speaking
+
 
 ### **Highlights**
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Snehalnair88&theme=dracula&column=7&margin-w=15&margin-h=15)
 
+
 ### CP Profiles
+
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/snehalrajin88/profile
  
  Hackerrank     https://www.hackerrank.com/snehalrajin88  
@@ -53,6 +61,7 @@
  HackerEarth    https://www.hackerearth.com/@snehalrajin88 
  
  LeetCode       https://leetcode.com/snehalrajin88/ 
+ 
  
  
 ## 📊 Github stats
@@ -67,6 +76,7 @@
 <!-- </details> -->
 
 <a><img alt="Snehal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Snehalnair88&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
+
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/snehal-nair-2980b41b9" target="_blank">
