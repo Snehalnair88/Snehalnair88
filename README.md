@@ -2,9 +2,9 @@
 
 <a href="https://github.com/Snehalnair88"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Snehalnair88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
-I'm a Computer Science Student 😊.  
+   I'm a Computer Engineering Student 😊.  
 💻 Worked on many different technologies.  
-📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
+📜 Created many useful web development projects!  
 
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 
