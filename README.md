@@ -44,7 +44,9 @@
 ### Hobbies
 
 ✨ 1035 Rapid Rating on  Chess.com 
+
 ✨ Data Structures and Algorithms 
+
 ✨ Public Speaking
 
 
