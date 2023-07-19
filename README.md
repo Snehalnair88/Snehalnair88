@@ -1,5 +1,6 @@
 ## Hey, I'm Snehal Nair! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+Visitor Count-
 
 ![Visitor Count](https://profile-counter.glitch.me/Snehalnair88/count.svg)
 
