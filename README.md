@@ -2,7 +2,7 @@
 
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{Snehalnair88}/count.svg)
+![](https : //profile-counter.glitch.me/{Snehalnair88}/count.svg)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Snehalnair88.Snehalnair88)
