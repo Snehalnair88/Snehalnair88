@@ -1,5 +1,10 @@
 ## Hey, I'm Snehal Nair! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+
+![Visitor Count](https : //profile-counter.glitch.me/{Snehalnair88}/count.svg)
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Snehalnair88.Snehalnair88)
 
 
