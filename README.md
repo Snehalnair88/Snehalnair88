@@ -87,12 +87,12 @@ Visitor Count-
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/snehal-nair-2980b41b9" target="_blank">
-  <img align="left" alt="Snehal's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Snehal's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </a>
-<a href="" target="_blank">
-  <img align="left" alt="Snehal's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://twitter.com/SnehalNair02" target="_blank">
+  <img align="left" alt="Snehal's Twitter" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
-<a href="snehalrajin88@gmail.com" target="_blank">
-  <img align="left" alt="Snehal's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.youtube.com/channel/UC6wz-peNDfClzJ9wUztuqUA" target="_blank">
+  <img align="left" alt="Snehal's Email" src="https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj" />
 </a>
