@@ -91,8 +91,8 @@ Visitor Count-
 </a>
 </a>
 <a href="https://twitter.com/SnehalNair02" target="_blank">
-  <img align="left" alt="Snehal's Twitter" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
+  <img align="left" alt="Snehal's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UC6wz-peNDfClzJ9wUztuqUA" target="_blank">
-  <img align="left" alt="Snehal's Email" src="https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj" />
+  <img align="left" alt="Snehal's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
